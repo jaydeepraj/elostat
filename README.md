@@ -1,4 +1,4 @@
-# EloStat
+# EloStat - An Amazing Project
 Website predicting baseball outcomes
 
 MVP : v0.2.0
